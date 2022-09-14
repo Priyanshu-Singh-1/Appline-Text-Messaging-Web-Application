@@ -6,10 +6,10 @@ This project is based on the real time text messaging web application. This proj
 ![ss whatsapp](https://user-images.githubusercontent.com/107169043/190159099-e436a8ef-b79b-4f77-9d97-70db1239fda2.png)
 
 # Technologies Used
-  React (frontend)
-  NodeJS - ExpressJS (backend)
-  Material UI for icons
-  MongoDB
+  React (frontend), 
+  NodeJS - ExpressJS (for backend), 
+  Material UI for icons, 
+  MongoDB (for Database), 
   Pusher (MongoDB itself is not realtime therefore, pusher is used to get real times updates on frontend.)
   
 # Installation
