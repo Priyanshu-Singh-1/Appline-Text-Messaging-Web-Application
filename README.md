@@ -41,3 +41,7 @@ $ nodemon server.js
 # Local Host Server
 
 This project runs on the -  http://localhost:3000/
+
+# Live Project
+
+http://192.168.56.1:3000
