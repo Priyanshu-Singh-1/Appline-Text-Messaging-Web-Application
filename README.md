@@ -20,11 +20,11 @@ The port used for this project is 3000
 
 Install the dependencies and devDependencies
 
-$ cd frontend
-$ npm i
-$ cd ..
-$ cd api
-$ npm i
+    $ cd frontend
+    $ npm i
+    $ cd ..
+    $ cd api
+    $ npm i
 
 # To start the project
 
@@ -32,11 +32,11 @@ To start the front-end
 
 Change the directory to the whatsapp-mern and type the following code
 
-$ npm start
+    $ npm start
 
 To start the backend, open other terminal, and change the directory to whatsapp-backend and type the following code
 
-$ nodemon server.js
+    $ nodemon server.js
 
 # Local Host Server
 
