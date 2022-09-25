@@ -41,7 +41,3 @@ To start the backend, open other terminal, and change the directory to whatsapp-
 # Local Host Server
 
 This project runs on the -  http://localhost:3000/
-
-# Live Project
-
-http://192.168.56.1:3000
