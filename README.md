@@ -33,11 +33,30 @@ To start the front-end
 Change the directory to the whatsapp-mern and type the following code
 
     $ npm start
+    
+Start the mongoDB from the website and choose the database for which your project is being connected.
 
+    For this, the database that is used is "Whatsapp-MERN"
+    
 To start the backend, open other terminal, and change the directory to whatsapp-backend and type the following code
 
     $ nodemon server.js
+    
+After starting the server side script, open postman and set the method to "POST", and type the following request - 
+    
+    http://localhost:9000/messages/new
+    
+And, choose the body->raw and then choose the JSON file, in that body mention the following content - 
+
+    {
+     "message": "HEHEHEHEHE (your message)",
+      "name": "Priyanshu (the user name)",
+      "timestamp": "Just Now (as per your wish)", 
+      "received": true (if true you will act as sender, else you will act as receiver)
+    }
 
 # Local Host Server
 
 This project runs on the -  http://localhost:3000/
+
+And for the server side, the script listens on the port 9000
