@@ -54,6 +54,7 @@ And, choose the body->raw and then choose the JSON file, in that body mention th
       "timestamp": "Just Now (as per your wish)", 
       "received": true (if true you will act as sender, else you will act as receiver)
     }
+ keep the content inside the ""
 
 # Local Host Server
 
