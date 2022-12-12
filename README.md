@@ -5,12 +5,13 @@ This project is based on the real time text messaging web application. This proj
 # ScreenShot
 ![ss whatsapp](https://user-images.githubusercontent.com/107169043/190159099-e436a8ef-b79b-4f77-9d97-70db1239fda2.png)
 
-# Technologies Used
-  React (frontend), 
-  NodeJS - ExpressJS (for backend), 
-  Material UI for icons, 
-  MongoDB (for Database), 
-  Pusher (MongoDB itself is not realtime therefore, pusher is used to get real times updates on frontend.)
+# TechStacks Used
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
   
 # Installation
 
